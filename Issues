@@ -6,14 +6,15 @@ labels: ''
 assignees: ''
 
 LINE BREAK
+HEADER 2 - Task Name : Create greeting message
 
-HEADER 2 - Task Owner (Responsible): [First Name, Last Initial]
+HEADER 2 - Task Owner (Responsible): [Eric, Last Initial]
 
-HEADER 2 - Task Assignee (Accountable): [First Name, Last Initial]
+HEADER 2 - Task Assignee (Accountable): [Crystal, C]
 
 HEADER 2 - Task Deadline: [MM/DD/YYYY]
 
-HEADER 2 - Task Description:
+HEADER 2 - Task Description: Show a greeting message to the user and ask for their name.
 
 BOLD/ITALICS - Clearly describe the task, including what needs to be done and why.
 
