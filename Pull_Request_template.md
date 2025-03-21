@@ -12,7 +12,7 @@ HEADER 2 - Added a new feature
 
 ITALICS - What types of changes does your code introduce?
 
-_Put an `x` in the boxes that apply_
+_Put an `x` in the boxes that apply_ 
 
 - [ ] Bugfix (non-breaking change which fixes an issue)
 - [ ] New feature (non-breaking change which adds functionality)
